@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+ A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
@@ -133,18 +133,12 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>besitos✨</b>
 
 </div>
 <br>
 <br>
 <br>
 <br>
-
 ---
-
 <br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
