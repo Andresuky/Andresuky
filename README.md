@@ -79,7 +79,7 @@
 
 <br>
 <br>
-## <b> Let's Connect..!</b><img src="https://github.com/Andresuky" width ="80">
+<b> Let's Connect..!</b><img src="https://github.com/Andresuky" width ="80">
 <br>
 <div align='left'>
 <ul>
