@@ -5,9 +5,9 @@
 
   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 </p>
- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+ A passionate Cross platform app developer Front-end developer-web 
+- Playing a XDefiant at spare time
+- Currently learning Web Development And Aplication by Self
 - I’m currently open for an Intern or a new job opportunity, this is my ig (https://www.instagram.com/the_juanandres419/)
 
 <br><br>
