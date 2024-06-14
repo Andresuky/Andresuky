@@ -8,7 +8,6 @@
  A passionate Cross platform app developer Front-end developer-web 
 - Playing a XDefiant at spare time
 - Currently learning Web Development And Aplication by Self
-- I’m currently open for an Intern or a new job opportunity, this is my ig (https://www.instagram.com/the_juanandres419/)
 
 <br><br>
 
